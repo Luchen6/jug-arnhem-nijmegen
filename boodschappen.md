@@ -1,6 +1,7 @@
 # Boodschappen
 
 ## Jumbo
+- aardbeienjam
 - Pindakaas
 - kokosbrood
 - boter
