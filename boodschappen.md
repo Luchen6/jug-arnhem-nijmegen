@@ -1,17 +1,17 @@
 # Boodschappen
 
 ## Jumbo
-- aardbeienjam
-- Pindakaas
-- kokosbrood
-- boter
+- [ ] aardbeienjam
+- [ ] Pindakaas
+- [ ] kokosbrood
+- [ ] boter
 
 ## Markt
-- kaas
-- eieren
+- [ ] kaas
+- [ ] eieren
 
 ## Bakker
-- brood
+- [ ] brood
   
 ## Oven
--  200 graden
+- [ ] 200 graden
