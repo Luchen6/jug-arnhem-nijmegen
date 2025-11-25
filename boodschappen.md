@@ -4,7 +4,7 @@
 - [ ] aardbeienjam
 - [ ] Pindakaas
 - [ ] kokosbrood
-- [ ] boter
+- [ ] margarine
 
 ## Markt
 - [ ] kaas
@@ -12,4 +12,4 @@
 
 ## Bakker
 - [ ] brood
-  
+ - [ test 
